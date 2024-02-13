@@ -19,7 +19,7 @@ export default function Page() {
 />
 <div className={styles.shape}></div>
           <p className={'${lusitana.className} text-xl text-grey-800 md:text-3xlmd:leading-normal'}>
-            <strong>Welcome to AAO.</strong> FIRST WEB APP{' '}
+            <strong>Welcome to AAN.</strong> FIRST WEB APP{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
